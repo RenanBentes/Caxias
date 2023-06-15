@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Prova2</string>
+    <string name="Topico1">Infantaria</string>
+    <string name="Topico2">Cavalaria</string>
+    <string name="Topico3">Artilharia</string>
+    <string name="Topico4">Engenharia</string>
+    <string name="Topico5">Comunicações</string>
+    <string name="Topico6">Material Belico</string>
+    <string name="Topico7"> Intendência</string>
+
+    <string name="Texto1">A Infantaria tem como característica essencial a aptidão para combater a pé, em todos os tipos de terreno e sob quaisquer condições meteorológicas, podendo utilizar variados meios de transporte. Uma de suas missões é conquistar e manter o terreno, aproveitando a capacidade do infante de progredir em pequenas frações, difíceis de serem detectadas em todos os tipos de terreno. Isso permite que ele se aproxime do inimigo para travar o combate corpo-a-corpo. A Infantaria poderá ter especializações das mais diversas: Motorizada, Blindada, Paraquedista, Leve, de Selva, de Caatinga, de Montanha, de Pantanal, de Guardas e de Polícia.
+    </string>
+    <string name="Texto2">A Cavalaria, no início das operações, é empregada à frente dos demais integrantes da Força Terrestre, na busca de informações sobre o inimigo e sobre a região de operações. Participa de ações ofensivas e defensivas, aplicando suas características básicas: mobilidade, potência de fogo, ação de choque, proteção blindada e sistema de comunicações amplo e flexível. Seus elementos podem ser blindados, mecanizados e de guardas. Participa do cerimonial com escoltas mecanizadas e a cavalo.
+    </string>
+    <string name="Texto3">A Artilharia de Campanha é o principal meio de apoio de fogo da Força Terrestre. Suas unidades e subunidades podem ser dotadas de canhões, obuses, foguetes ou mísseis. Tem por missão apoiar a arma-base pelo fogo, destruindo ou neutralizando os alvos que ameacem o êxito da operação. A artilharia antiaérea, componente terrestre da defesa aeroespacial ativa, realiza a defesa antiaérea de forças, instalações ou áreas. A artilharia de costa participa da defesa contra operações navais inimigas em áreas marítimas próximas ao litoral ou em águas interiores. Suas características são a precisão e a rapidez, para destruir ou neutralizar as instalações, os equipamentos e as tropas inimigas localizadas em profundidade no campo de batalha.
+    </string>
+    <string name="Texto4">A Engenharia divide-se em duas vertentes: de combate e de construção. A de combate apoia as armas-base, facilitando o deslocamento das tropas amigas, reparando estradas, pontes e eliminando os obstáculos à progressão e, ainda, dificultando o movimento do inimigo. Uma operação de grande envergadura, e que depende diretamente da Engenharia, é a transposição de cursos de água obstáculo. A Engenharia de Construção, em tempo de paz, colabora com o desenvolvimento nacional, construindo estradas de rodagem, ferrovias, pontes, açudes, barragens, poços artesianos e inúmeras outras obras.
+    </string>
+    <string name="Texto5">As Comunicações proporcionam as ligações necessárias aos escalões mais altos que exercerão a coordenação e o controle de seus elementos subordinados antes, durante e após as operações. Além disso, atua no controle do espectro eletromagnético, por meio das atividades de Guerra Eletrônica, para impedir ou dificultar as comunicações do inimigo, facilitar as próprias comunicações e obter informações. O ciclo básico da tomada de decisão é deflagrado a partir dos estímulos recebidos do ambiente. O centro decisório, após detectar, comparar, analisar, decidir e agir, reage ao ambiente, para restabelecer a situação desejada.
+    </string>
+    <string name="Texto6">O Quadro de Material Bélico realiza o apoio logístico voltado para a manutenção do material bélico, principalmente, os armamentos, as viaturas e as aeronaves. Inclui-se aí, o suprimento de peças e conjuntos de reparação destinados a esses materiais. Cuida ainda, do suprimento de combustíveis, óleos, graxas e lubrificantes para motores e máquinas.
+O Exército Brasileiro criou o Quadro de Material Bélico (QMB), em decorrência da participação brasileira na II Guerra Mundial.
+    </string>
+    <string name="Texto7">O Serviço de Intendência é a parte da logística voltada para as atividades de suprimento. Ele distribui o material de intendência (uniformes, equipamentos individuais, etc) e os diversos tipos de munição e de gêneros alimentícios. Proporciona também, em operações, outros serviços como lavanderia e banho. Nas organizações militares os intendentes assessoram os comandantes na administração financeira e na contabilidade. A evolução do material de Intendência é essencialmente dinâmica.
+    </string>
+</resources>
